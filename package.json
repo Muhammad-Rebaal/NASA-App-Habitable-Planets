@@ -1,6 +1,7 @@
 {
   "name": "nasa-app-habitable-planets",
   "version": "1.0.0",
+  "type": "module",
   "description": "It's built on top of Node.js",
   "main": "index.js",
   "scripts": {
@@ -10,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "assert": "^2.1.0",
     "csv-parse": "^5.5.0"
   }
 }
